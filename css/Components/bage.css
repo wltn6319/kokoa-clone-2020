@@ -1,0 +1,10 @@
+.bage {
+  background-color: tomato;
+  color: wheat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 24px;
+  height: 24px;
+  border-radius: 12px;
+}
